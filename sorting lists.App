@@ -60,8 +60,8 @@ class ReverseAlphabeticalComparator implements Comparator<String> {
     }
 }
 
-public class //App
-       Main{
+public class App
+      {
 
     
     public static void main(String[] args) {
